@@ -1,7 +1,7 @@
-#HW4 results
+# HW4 results
 
 input image:  
-!(input)[input/Beans.png]  
+!(input)[data/Beans.png]  
 
 histogram:  
 !(histogram)[result/histogram.png]  
