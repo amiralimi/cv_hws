@@ -1,4 +1,4 @@
-# HW4 results
+# HW5 results
 
 input image:  
 ![input](data/Beans.png)  
