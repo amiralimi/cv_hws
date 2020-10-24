@@ -5,8 +5,8 @@
 ### Gaussian noise    
 ![image with gaussian noise](result/GaussianNoise.png)  
 
-### Fixing salt and pepper with Median Filter  
+### Fixing gaussian with Median Filter  
 ![Median Result](result/MedianRes.png)  
 
-### Fixing salt and pepper with Gaussian Filter  
+### Fixing gaussian with Gaussian Filter  
 ![Gaussian Result](result/GaussianRes.png)
