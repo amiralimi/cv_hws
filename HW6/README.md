@@ -9,7 +9,7 @@
 ![result](result/LocalHistEqRes.png)  
 
 ### input:  
-![input](data/ForSalt.jpeg)  
+![input](data/ForSalt.jpg)  
 
 ### Adding Salt and Peper noise    
 ![image with salt and pepper noise](result/SaltAndPepperNoise.png)  
