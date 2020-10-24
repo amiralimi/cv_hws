@@ -17,3 +17,6 @@ For this assignment we were told to:
   * Add Salt and Pepper noise to an image and fix it with Median Filter and Gaussian Filter and compare the results.
    
  [Here](HW6/README.md) is the result.
+
+### HW7
+For this assignment we were told to add Gaussian noise to a picture, then fix it with Median and Gaussian Filter.
