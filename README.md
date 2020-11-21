@@ -21,3 +21,7 @@ For this assignment we were told to:
 ### HW7
 For this assignment we were told to add Gaussian noise to a picture, then fix it with Median and Gaussian Filter.  
 [Here](HW7/README.md) is the result.
+
+### HW8
+For this assignment we were told to separate and object from it's background.  
+[Here](HW8/README.md) is the result.
